@@ -3,7 +3,7 @@
 | Social Media Advertising        | 200                   | 2%                       |
 | Search Engine Marketing (SEM)   | 100                   | 1%                       |
 | Content Marketing               | 50                    | 0.5%                        |
-| Email Marketing                 | 50                    | 0.5                        |
+| Email Marketing                 | 50                    | 0.5%                        |
 | Influencer Marketing            | 100                   | 1%                       |
 | Traditional Advertising         | 50                    | 0.5%                        |
 | Event Sponsorships & Partnerships| 100                   | 1%                       |
