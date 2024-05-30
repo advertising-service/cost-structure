@@ -12,3 +12,7 @@
 | Local Marketing                 | 100                   | 1%                       |
 | Public Relations (PR)           | 50                    | 0.5%                        |
 | Interactive Ads                 | 100                   | 0.1%                       |
+
+
+![The San Juan Mountains are beautiful!](Budget%20Allocation%20($).svg "San Juan Mountains")
+
