@@ -11,3 +11,4 @@ Với ngân sách 150.000 đô la, ta có thể phân bổ ngân sách cho các 
 | Tài trợ sự kiện cộng đồng | 5% | 7.500 | Kết nối với cộng đồng địa phương, tạo thiện cảm với thương hiệu, tiếp cận khách hàng tiềm năng |
 
 **Lưu ý:** Đây chỉ là một ví dụ về cách phân bổ ngân sách. Tỷ lệ phần trăm có thể thay đổi tùy thuộc vào chiến lược cụ thể, đối tượng mục tiêu và kết quả thử nghiệm của từng phương pháp. Điều quan trọng là liên tục theo dõi và đánh giá hiệu quả của từng kênh quảng cáo để điều chỉnh ngân sách cho phù hợp.
+![The San Juan Mountains are beautiful!](Số%20Tiền%20(USD).svg "San Juan Mountains")
