@@ -17,3 +17,5 @@ Với ngân sách 45.000 đô la dành cho quảng cáo trên mạng xã hội, 
 **Lưu ý:** Đây chỉ là một ví dụ về cách phân bổ ngân sách. Tỷ lệ phần trăm có thể thay đổi tùy thuộc vào đối tượng mục tiêu cụ thể của công ty khởi nghiệp gọi xe. Ví dụ, nếu nhắm vào đối tượng trẻ tuổi, có thể tăng ngân sách cho TikTok và Instagram. Ngược lại, nếu nhắm vào đối tượng lớn tuổi hơn, có thể tăng ngân sách cho Facebook.
 
 Bên cạnh đó, cần theo dõi và đánh giá hiệu quả của từng kênh quảng cáo để điều chỉnh ngân sách cho phù hợp.
+
+![The San Juan Mountains are beautiful!](SocialMedia.svg "San Juan Mountains")
